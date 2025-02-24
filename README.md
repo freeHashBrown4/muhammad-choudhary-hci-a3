@@ -26,4 +26,4 @@ I will also help students to stay productive because they can easily use their p
 ![Final Prototype](./final_prototype.png)
 
 # Navigation of Final Prototype
-![Navigation Final Prototype](./navigation_prototype.png)
+![Navigation Final Prototype](./final_navigation.png)
