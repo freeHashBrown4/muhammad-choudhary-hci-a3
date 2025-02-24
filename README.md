@@ -9,7 +9,7 @@ I will also help students to stay productive because they can easily use their p
 
 
 - [Link to Figma Design](https://www.figma.com/design/0mlaBtG5eJV11L8ooeiEgF/muhammad_choudhary_a3?node-id=0-1&t=nZly3j39FpJRPr1d-1)
-- [Link to Github Repository]()
+- [Link to Github Repository](https://github.com/freeHashBrown4/muhammad-choudhary-hci-a3)
 - [Recorded video for Participant Number One and Two](https://youtu.be/AXUr6qxddNw)
 
 
